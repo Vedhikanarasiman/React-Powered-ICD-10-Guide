@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React-Powered ICD-10 Assistant: Your Efficient Coding Solution
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
